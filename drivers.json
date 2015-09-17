@@ -1,0 +1,14 @@
+[
+    {
+        "first_name": "Miles",
+        "last_name": "Davis",
+        "birth_date": "08/09/1940",
+        "sex": "male"
+    },
+    {
+        "first_name": "Andre",
+        "last_name": "TheGiant",
+        "birth_date": "08/09/1990",
+        "sex": "male"
+    }
+]

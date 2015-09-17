@@ -1,0 +1,29 @@
+{
+  "name": "react-treat",
+  "version": "0.0.0",
+  "description": "React Treat example",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valish/react-treat.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "valish <andrew@coverhound.com>",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
